@@ -4,7 +4,7 @@
 Use machine learning to predict the benignity or malignancy of breast cancer. Key steps:  
 1. Data cleaning (handling missing values)  
 2. Feature selection (using correlation analysis)  
-3. Training a random forest model (92% accuracy)  
+3. Training a random forest model
 
 ## Quick Start  
 1. Install dependencies:  
@@ -18,6 +18,7 @@ Use machine learning to predict the benignity or malignancy of breast cancer. Ke
 
 ## Results display  
 - AUC: 0.9953
+- Accuracy achieves 92%
 
 ## Dataset source  
 [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
