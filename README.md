@@ -17,9 +17,7 @@ Use machine learning to predict the benignity or malignancy of breast cancer. Ke
    ```  
 
 ## Results display  
-![ROC curve](results/roc_curve.png)  
+- AUC值: 0.9953
 
 ## Dataset source  
 [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
-
-Translated with DeepL.com (free version)
